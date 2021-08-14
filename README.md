@@ -34,10 +34,11 @@ The design is simulated in Proteus 8 professional before implementing on the har
 The output of the HOURS' tens digit is connected to an AND gate that will reset the counter to 00 when 12 is counted. The clock source will depend on the designer.
 
 <p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/69888083/92466625-01a01400-f1ee-11ea-86c7-dbf2bef81973.png"
+  <img width="600" height="250" src="https://user-images.githubusercontent.com/69888083/92466625-01a01400-f1ee-11ea-86c7-dbf2bef81973.png"
   </p>   
   <p align="center">
   <img width="600" height="450" src="https://user-images.githubusercontent.com/69888083/92466666-15e41100-f1ee-11ea-8c75-2efe9cb305bd.png">
 </p>
 
+The circuit is purely designed with the  basic knowledge on sequential circuit designing  and hence   digital 12Hr clock is  successfully implemented which is displayed on the  7 segments.
 
